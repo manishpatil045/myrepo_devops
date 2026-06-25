@@ -1,0 +1,46 @@
+
+#comment
+
+#name: "Raju bhai"   #name: raju ,name: "raju: bhai"
+#age: 10
+#passed: true
+#subjects: #subject list
+#  -maths
+#  -english
+#marks:
+#  maths: 90
+#  english: 80
+
+#name: "sham"      for this list its give error two names
+#age: 20
+#passed: true
+#subjects: #subject list
+#  -maths
+#  -hindi
+#marks:
+#  maths: 100
+#  hindi: 85
+
+
+students:
+  students1:
+    name: "Raju bhai"   #name: raju ,name: "raju: bhai"
+    age: 10
+    passed: true
+    subjects: #subject list
+      -maths
+      -english
+    marks:
+      maths: 90
+      english: 80
+
+  students2:
+    name: "sham"   
+    age: 20
+    passed: true
+    subjects: #subject list
+      -maths
+      -hindi
+    marks:
+      maths: 100
+      hindi: 85
